@@ -1,0 +1,32 @@
+[
+  {
+    "id": "joshi2023", "year": 2023, "authors": "Eureka Joshi · Mark D. Coleman",
+    "title": "Tree Growth and Vegetation Diversity in Northern Idaho Forest Water Reclamation Facilities",
+    "species": "Batı kırmızı mazısı, Douglas göknarı, ponderosa çamı",
+    "headline": "Uygun koşullarda büyümeyi destekleyebilir",
+    "stat": "+%166,1", "metric": "Batı kırmızı mazısında bildirilen en yüksek çap büyümesi tepkisi",
+    "summary": "Kuzey Idaho’daki beş geri kazanılmış su tesisinde ağaç büyümesi ve bitki çeşitliliği incelendi. Kontrol alanlarına göre en yüksek çap büyümesi tepkileri batı kırmızı mazısında %166,1, Douglas göknarında %116,4 ve ponderosa çamında %100,6 olarak bildirildi.",
+    "limits": "Bunlar belirli tür ve saha koşullarındaki en yüksek karşılaştırmalı sonuçlardır. Temiz suyla eşit miktarda sulama karşılaştırması veya litre başına büyüme katsayısı değildir. Bizim prototipimizin büyüme sonucu olarak kullanılamaz.",
+    "kind": "benefit", "doi": "10.3390/f14020266", "url": "https://doi.org/10.3390/f14020266"
+  },
+  {
+    "id": "nackley2015", "year": 2015, "authors": "Lloyd L. Nackley · Corey Barnes · Lorence R. Oki",
+    "title": "Investigating the impacts of recycled water on long-lived conifers",
+    "species": "Sequoia sempervirens ‘Aptos Blue’ · 102 fidan",
+    "headline": "Tuzluluk büyümeyi azaltabilir",
+    "stat": "−%30–40", "metric": "Orta derecede tuzlu toprak koşullarında göreli boy büyümesinde azalma",
+    "summary": "102 sekoya fidanı 17 kontrol ve tuzluluk uygulamasına ayrıldı. Araştırma, 4–8 dS/m düzeyinde orta derecede tuzlu toprak koşullarının göreli boy büyümesini %30–40 azaltabileceğini gösterdi.",
+    "limits": "Bu bir tuzluluk deneyidir; ham kanalizasyon suyunun yararını test etmez. Değerler başka ağaç türlerine doğrudan uygulanamaz. Bizim donanımımız tuzluluk ölçmez.",
+    "kind": "risk", "doi": "10.1093/aobpla/plv035", "url": "https://doi.org/10.1093/aobpla/plv035"
+  },
+  {
+    "id": "fdil2023", "year": 2023, "authors": "Jouhayna Fdil ve arkadaşları",
+    "title": "Effect of Alternating Well Water with Treated Wastewater Irrigation on Soil and Koroneiki Olive Trees",
+    "species": "Koroneiki zeytini",
+    "headline": "Uzun vadeli su yönetimi önemlidir",
+    "stat": "2 + 2 yıl", "metric": "Kuyu suyu ve arıtılmış atık su dönemlerinin karşılaştırılması",
+    "summary": "İki yıllık arıtılmış atık su uygulaması ve iki yıllık kuyu suyu dönemi üzerinden toprak ve bitki özellikleri incelendi. Kuyu suyuna geçiş, sodyum birikimi ve bazı olumsuz toprak etkilerinin azalmasına yardımcı oldu.",
+    "limits": "Çalışmanın sonuçları arıtma yöntemine ve deney koşullarına bağlıdır. Tüm ağaçlar için bir sulama reçetesi değildir; bizim sistemimiz su kalitesini doğrulamaz.",
+    "kind": "management", "doi": "10.3390/w15162988", "url": "https://doi.org/10.3390/w15162988"
+  }
+]
